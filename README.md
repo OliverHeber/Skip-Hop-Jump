@@ -1,4 +1,4 @@
-# Blocker-Game
+# Skip-Hop-Jump
 
 Terminal application where one player tries to create a path across a 2D grid, while the other tries to block the path.
 
